@@ -1,3 +1,5 @@
+FROM germaniumhq/ubuntu:18.04
+
 USER root
 
 COPY _gbs /_gbs/
